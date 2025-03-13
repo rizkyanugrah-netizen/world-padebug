@@ -1,11 +1,11 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
-global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
-global.namastore = "LynnZxD" // UBAH NAMA STORE LU
-global.simbol = "✪" // You Can Change Simbol
+global.namaown = "Anonymous"
+global.namabot = "Anonymous-free"
+global.versisc = "9.5.0"
+global.owner = ["6285716520427"]
+global.tele = "https://t.me/GlobalBotInc"
+global.url = "https://www.youtube.com/@GlobalTechInfo"
+global.namastore = "HaNzz"
+global.simbol = "®"
 global.wlcm = []
 global.wlcmm = []
 global.limitawal = {
@@ -13,7 +13,6 @@ global.limitawal = {
     free: 20
 }
 
-// Ganti Logo Disini
 global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
 
 global.my = {
